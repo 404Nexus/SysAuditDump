@@ -24,8 +24,9 @@ A modular Python-based auditing tool for checking local system weaknesses on Win
 ---
 
 ## 📸 Screenshot
+![Screenshot 2025-07-05 021637](https://github.com/user-attachments/assets/d4efce91-3447-4923-a9d9-a789e2732391)
 
-_Add screenshot of output or terminal preview here_
+
 
 ---
 
