@@ -32,5 +32,5 @@ A modular Python-based auditing tool for checking local system weaknesses on Win
 
 ## 👨‍💻 Author
 
-Made by [Kuldeep](https://github.com/404Nexus) — Cybersecurity Enthusiast & CEH Learner 🔐
+Made by [404Nexus](https://github.com/404Nexus) — Cybersecurity Enthusiast & CEH Learner 🔐
 
